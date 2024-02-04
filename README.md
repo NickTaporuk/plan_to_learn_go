@@ -63,7 +63,7 @@ This course offers an in-depth exploration of the Go programming language (Golan
 - Managing Cloud Resources for Go Applications
 - Continuous Integration/Continuous Deployment (CI/CD) Pipelines
 
-### Module 8: Capstone Project
+### Module 8: Project
 
 - Planning and Developing a Full-Stack Application
 - Implementing Microservices with REST, gRPC, and GraphQL
