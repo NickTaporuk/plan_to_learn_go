@@ -6,6 +6,7 @@ This course offers an in-depth exploration of the Go programming language (Golan
 
 ## Course Objectives
 
+- Intro 
 - Master the fundamentals of the Go programming language.
 - Understand how to interact with PostgreSQL using Go.
 - Learn to containerize Go applications with Docker.
